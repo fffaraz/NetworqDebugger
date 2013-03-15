@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>internet-device-Vista-icon.png</file>
+    </qresource>
+</RCC>
