@@ -1,6 +1,6 @@
 #include "conversationserver.h"
 #include <QTcpSocket>
-#include <QtGui/QSystemTrayIcon>
+#include <QSystemTrayIcon>
 #include "conversation.h"
 #include "conversationwidget.h"
 #include <QMenu>
